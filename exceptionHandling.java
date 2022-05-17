@@ -13,6 +13,7 @@ public class exceptionHandling {
         }
         catch (Exception exception_message){
             System.out.println("adalah = "+exception_message);
+            System.out.println("pull");
         }
     }
 }
